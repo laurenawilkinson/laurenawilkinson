@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Lauren! 🌸
+
+A few things about me...
+
+- 🔭 I'm currently working on my first large MERN stack project
+- 🌱 I'm currently learning MongoDB && React
+- 💚 I love working with Vue!
+- 👏 I want to make more contributions to open source projects
+- ⚡ Fun fact: I love playing video games with friends (on PC primarily!)
+
 
 <!--
 **laurenawilkinson/laurenawilkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
