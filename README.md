@@ -1,12 +1,6 @@
 ### Hi, I'm Lauren! 🌸
 
-A few things about me...
-
-- 🔭 I'm currently working on my first large MERN stack project
-- 🌱 I'm currently learning MongoDB && React
-- 💚 I love working with Vue!
-- 👏 I want to make more contributions to open source projects
-- ⚡ Fun fact: I love playing video games with friends (on PC primarily!)
+<img src="https://img.freepik.com/free-photo/view-adorable-3d-cat_23-2150473716.jpg?t=st=1715529217~exp=1715532817~hmac=827746ed0b72ca19b183dc0a4449056d7df18e23252f8e53ba5140f9c2ec0185&w=1380" title="Designed by Freepik" />
 
 
 <!--
