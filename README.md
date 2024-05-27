@@ -1,9 +1,10 @@
 ### Hi, I'm Lauren! 🌸
 
-<img src="https://laurenwilkinson.co.uk/images/github-readme.jpg" title="Designed by Freepik" />
+<img src="https://github.com/laurenawilkinson/laurenawilkinson/assets/25884524/c2a0b57d-bcd2-4050-b259-6168d686f3e7" title="Designed by Freepik" />
 
 
 <!--
+
 **laurenawilkinson/laurenawilkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
